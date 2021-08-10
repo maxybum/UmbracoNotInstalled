@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "UmbracoNotInstalled", "UmbracoNotInstalled\UmbracoNotInstalled.vbproj", "{E035BAD4-6BBC-4489-BD43-66ABE90B1550}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UmbracoNotInstalled", "UmbracoNotInstalled\UmbracoNotInstalled.csproj", "{B00C1B67-F7D8-4CF4-AC1C-ACFAF8DA6738}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E035BAD4-6BBC-4489-BD43-66ABE90B1550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E035BAD4-6BBC-4489-BD43-66ABE90B1550}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E035BAD4-6BBC-4489-BD43-66ABE90B1550}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E035BAD4-6BBC-4489-BD43-66ABE90B1550}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B00C1B67-F7D8-4CF4-AC1C-ACFAF8DA6738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B00C1B67-F7D8-4CF4-AC1C-ACFAF8DA6738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B00C1B67-F7D8-4CF4-AC1C-ACFAF8DA6738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B00C1B67-F7D8-4CF4-AC1C-ACFAF8DA6738}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {342D59ED-0EB2-4B45-9F1F-E8721A2E4210}
+		SolutionGuid = {A7F8F07B-E266-4812-B50F-8DAC3F761ABB}
 	EndGlobalSection
 EndGlobal
